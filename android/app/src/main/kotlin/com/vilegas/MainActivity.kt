@@ -1,0 +1,6 @@
+package com.vilegas
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
